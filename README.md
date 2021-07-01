@@ -1,2 +1,2 @@
 # my-repo
-# Commit msg - 1
+# Commit msg - 2
